@@ -1,30 +1,8 @@
-# Els millors hostings gratuits:
-
-
-# 1. HubSpot.
-https://www.hubspot.es/
-
-
-# 2. Hostinger.
-https://www.hostinger.es/
-
-
-# 3. AwardSpace.
-https://www.awardspace.com/
-
-
-# 4. LucusHost.
-https://www.lucushost.com/
-
-
-# 5. InfinityFree.
-https://www.infinityfree.com/
-
 # Hosting
 | Proveïdor  | Espai d'emmagatzematge | Ample de banda  | Dominis i Subdominis | Certificat SSL  | Publicitat | Altres Característiques | Enllaç |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| HubSpot | Il·limitat | Il·limitat | Ofereix subdominis gratuïts i suport per a dominis personalitzats | Si | No te publicitat forçada | Te suport de suport PHP i MySQL | https://www.hubspot.es/ |
-| Hostinger | Il·limitat | Il·limitat | Ofereix subdominis gratuïts i suport per a dominis personalitzats | Si | No te publicitat forçada | Te suport de suport PHP i MySQL | https://www.hostinger.es/
-| AwardSpace | Il·limitat | Il·limitat | Ofereix subdominis gratuïts i suport per a dominis personalitzats | Si | No te publicitat forçada | Te suport de suport PHP i MySQL | https://www.awardspace.com/
-| LucusHost | Il·limitat | Il·limitat | Ofereix subdominis gratuïts i suport per a dominis personalitzats | Si | No te publicitat forçada | Te suport de suport PHP i MySQL | https://www.lucushost.com/
-| InfinityFree | Il·limitat | Il·limitat | Ofereix subdominis gratuïts i suport per a dominis personalitzats | Si | No te publicitat forçada | Te suport de suport PHP i MySQL | https://www.infinityfree.com/
+| HubSpot | Il·limitat (segons el pla) | Il·limitat (segons el pla) | Permet dominis personalitzats| Inclòs | No |CRM integrat, automatització de màrqueting, suport per a CMS, eines d'anàlisi i informes | https://www.hubspot.es/ |
+| Hostinger | 100 GB (en plans compartits) /  | Il·limitat (en plans compartits) / Segons el pla (VPS i Cloud) | Permet dominis personalitzats | Inclós | No |  	Suport per a WordPress, bases de dades MySQL, instal·lació amb un clic, suport 24/7| https://www.hostinger.es/
+| AwardSpace |  	1 GB (pla gratuït) |  	5 GB | Subdomini| Si | No hi ha publicitat externa o forçada | Te suport de suport PHP i MySQL | https://www.awardspace.com/
+| LucusHost | 1 GB (pla gratuït) |  	10 GB | Domini personalitzat | Si |Si | 	 	Suport per a WordPress, MySQL, cPanel | https://www.lucushost.com/
+| InfinityFree | Il·limitat | Il·limitat | Subdomini| Si | No | Suport per a WordPress, MySQL, instal·lador d'aplicacions automàtic | https://www.infinityfree.com/
