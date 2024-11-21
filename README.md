@@ -6,3 +6,5 @@
 | AwardSpace |  	1 GB (pla gratuït) |  	5 GB | Subdomini| Si | No hi ha publicitat externa o forçada | Te suport de suport PHP i MySQL | https://www.awardspace.com/
 | LucusHost | 1 GB (pla gratuït) |  	10 GB | Domini personalitzat | Si |Si | 	 	Suport per a WordPress, MySQL, cPanel | https://www.lucushost.com/
 | InfinityFree | Il·limitat | Il·limitat | Subdomini| Si | No | Suport per a WordPress, MySQL, instal·lador d'aplicacions automàtic | https://www.infinityfree.com/
+
+He agafat l'informació de: https://blog.hubspot.es/website/mejores-hosting-gratuitos
