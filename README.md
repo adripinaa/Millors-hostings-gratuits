@@ -7,4 +7,4 @@
 | LucusHost | 1 GB (pla gratuït) |  	10 GB | Domini personalitzat | Si |Si | 	 	Suport per a WordPress, MySQL, cPanel | https://www.lucushost.com/
 | InfinityFree | Il·limitat | Il·limitat | Subdomini| Si | No | Suport per a WordPress, MySQL, instal·lador d'aplicacions automàtic | https://www.infinityfree.com/
 
-He agafat l'informació de: https://blog.hubspot.es/website/mejores-hosting-gratuitos
+Informació treta de: https://blog.hubspot.es/website/mejores-hosting-gratuitos
